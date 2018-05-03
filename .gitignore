@@ -1,4 +1,5 @@
 # Ignore these files
 
 example.rb
+.idea
 .idea/*
