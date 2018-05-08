@@ -1,3 +1,5 @@
+# Loops - exercise 4
+
 def count_down(num)
   puts num
   if num > 0
